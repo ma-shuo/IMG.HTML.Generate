@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import index from './components/index.vue'
 </script>
 
 <template>
-  <HelloWorld msg="Electron + Vite + Vue" />
+  <index msg="IMG.HTML.Generate" />
 </template>
 
 <style>
